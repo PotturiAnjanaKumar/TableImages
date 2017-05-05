@@ -1,0 +1,43 @@
+{
+    "status": 200,
+    "message": "Success",
+    "listings": [
+                 {
+                 "id": "2089980",
+                 "listing_name": "TGI Fridays",
+                 "website": "http://TGIFRIDAYS.COM",
+                 "city": "Silver Spring",
+                 "geo_lat": "39.0569514",
+                 "geo_lng": "-76.9664369",
+                 "state": "MD",
+                 "profile_img":"http://www.androidbegin.com/tutorial/flag/china.png"
+                 },
+                 {
+                 "listing_name": "7-eleven",
+                 "website": "7-eleven.com",
+                 "city": "Berkeley Springs",
+                 "geo_lat": "39.6292957",
+                 "geo_lng": "-78.2260069",
+                 "profile_img":"http://www.androidbegin.com/tutorial/flag/india.png"
+
+                 },
+                 {
+                 "listing_name": "7-eleven",
+                 "website": "7-eleven.com",
+                 "city": "Berkeley Springs",
+                 "geo_lat": "39.6292957",
+                 "geo_lng": "-78.2260069",
+                 "profile_img":"http://www.androidbegin.com/tutorial/flag/india.png"
+
+                 },
+                 {
+                 "listing_name": "7-eleven",
+                 "website": "7-eleven.com",
+                 "city": "Berkeley Springs",
+                 "geo_lat": "39.6292957",
+                 "geo_lng": "-78.2260069",
+                 "profile_img":"http://www.androidbegin.com/tutorial/flag/india.png"
+
+                 }
+                 ]
+}
